@@ -169,16 +169,13 @@ export default function LoginPage() {
         {/* Demo Credentials */}
         <CardFooter className="border-t pt-6">
           <div className="w-full text-center">
-            <p className="text-sm text-gray-600 mb-2">Demo Credentials:</p>
-            <div className="text-xs text-gray-500 space-y-1">
               <p>
                 <strong>Admin:</strong> admin@iot-store.com / admin123
               </p>
               <p>
-                <strong>User:</strong> user@example.com / password
+                <strong>User:</strong> Any user /  Any password
               </p>
             </div>
-          </div>
         </CardFooter>
       </Card>
     </div>
