@@ -22,9 +22,9 @@ export default function AdminDashboard() {
   }
 
   const recentOrders = [
-    { id: "ORD-001", customer: "John Doe", amount: 299.99, status: "pending", date: "2024-01-15" },
-    { id: "ORD-002", customer: "Jane Smith", amount: 149.5, status: "shipped", date: "2024-01-15" },
-    { id: "ORD-003", customer: "Bob Johnson", amount: 89.99, status: "delivered", date: "2024-01-14" },
+    { id: "ORD-001", customer: "Dharani", amount: 299.99, status: "pending", date: "2024-01-15" },
+    { id: "ORD-002", customer: "Murugan", amount: 149.5, status: "shipped", date: "2024-01-15" },
+    { id: "ORD-003", customer: "Umarani", amount: 89.99, status: "delivered", date: "2024-01-14" },
   ]
 
   const lowStockProducts = [
